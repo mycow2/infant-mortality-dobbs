@@ -1,0 +1,553 @@
+"Notes","State","State Code","UCD - ICD Chapter","UCD - ICD Chapter Code","Year","Year Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval
+,"Alabama","01","Certain infectious and parasitic diseases","A00-B99","2021","2021",16,55812,28.7,16.4,46.6
+,"Alabama","01","Diseases of the circulatory system","I00-I99","2021","2021",16,55812,28.7,16.4,46.6
+,"Alabama","01","Diseases of the respiratory system","J00-J98","2021","2021",12,55812,21.5,11.1,37.6
+,"Alabama","01","Diseases of the respiratory system","J00-J98","2022","2022",11,57882,19.0,9.5,34.0
+,"Alabama","01","Certain conditions originating in the perinatal period","P00-P96","2021","2021",186,55812,333.3,285.4,381.2
+,"Alabama","01","Certain conditions originating in the perinatal period","P00-P96","2022","2022",152,57882,262.6,220.9,304.4
+,"Alabama","01","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",69,55812,123.6,96.2,156.5
+,"Alabama","01","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",71,57882,122.7,95.8,154.7
+,"Alabama","01","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",96,55812,172.0,139.3,210.0
+,"Alabama","01","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",93,57882,160.7,129.7,196.8
+,"Alabama","01","External causes of morbidity and mortality","V01-Y89","2021","2021",32,55812,57.3,39.2,80.9
+,"Alabama","01","External causes of morbidity and mortality","V01-Y89","2022","2022",29,57882,50.1,33.6,72.0
+,"Alaska","02","Certain conditions originating in the perinatal period","P00-P96","2021","2021",23,9236,249.0,157.9,373.7
+,"Alaska","02","Certain conditions originating in the perinatal period","P00-P96","2022","2022",21,9490,221.3,137.0,338.3
+,"Alaska","02","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",17,9236,184.1,107.2,294.7
+,"Alaska","02","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",12,9490,126.4,65.3,220.9
+,"Alaska","02","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",17,9236,184.1,107.2,294.7
+,"Alaska","02","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",13,9490,137.0,72.9,234.3
+,"Arizona","04","Certain infectious and parasitic diseases","A00-B99","2022","2022",12,78579,15.3,7.9,26.7
+,"Arizona","04","Diseases of the respiratory system","J00-J98","2022","2022",14,78579,17.8,9.7,29.9
+,"Arizona","04","Certain conditions originating in the perinatal period","P00-P96","2021","2021",214,76130,281.1,243.4,318.8
+,"Arizona","04","Certain conditions originating in the perinatal period","P00-P96","2022","2022",231,78579,294.0,256.1,331.9
+,"Arizona","04","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",93,76130,122.2,98.6,149.7
+,"Arizona","04","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",113,78579,143.8,117.3,170.3
+,"Arizona","04","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",38,76130,49.9,35.3,68.5
+,"Arizona","04","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",42,78579,53.4,38.5,72.2
+,"Arizona","04","External causes of morbidity and mortality","V01-Y89","2021","2021",41,76130,53.9,38.6,73.1
+,"Arizona","04","External causes of morbidity and mortality","V01-Y89","2022","2022",39,78579,49.6,35.3,67.8
+,"Arkansas","05","Diseases of the respiratory system","J00-J98","2021","2021",10,34720,28.8,13.8,53.0
+,"Arkansas","05","Certain conditions originating in the perinatal period","P00-P96","2021","2021",121,34720,348.5,286.4,410.6
+,"Arkansas","05","Certain conditions originating in the perinatal period","P00-P96","2022","2022",110,35980,305.7,248.6,362.9
+,"Arkansas","05","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",69,34720,198.7,154.6,251.5
+,"Arkansas","05","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",61,35980,169.5,129.7,217.8
+,"Arkansas","05","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",76,34720,218.9,172.5,274.0
+,"Arkansas","05","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",59,35980,164.0,124.8,211.5
+,"Arkansas","05","External causes of morbidity and mortality","V01-Y89","2021","2021",15,34720,43.2,24.2,71.3
+,"Arkansas","05","External causes of morbidity and mortality","V01-Y89","2022","2022",18,35980,50.0,29.6,79.1
+,"California","06","Certain infectious and parasitic diseases","A00-B99","2021","2021",33,422861,7.8,5.4,11.0
+,"California","06","Certain infectious and parasitic diseases","A00-B99","2022","2022",32,425149,7.5,5.1,10.6
+,"California","06","Neoplasms","C00-D48","2021","2021",11,422861,2.6,1.3,4.7
+,"California","06","Endocrine, nutritional and metabolic diseases","E00-E88","2021","2021",16,422861,3.8,2.2,6.1
+,"California","06","Diseases of the nervous system","G00-G98","2021","2021",24,422861,5.7,3.6,8.4
+,"California","06","Diseases of the nervous system","G00-G98","2022","2022",21,425149,4.9,3.1,7.6
+,"California","06","Diseases of the circulatory system","I00-I99","2021","2021",31,422861,7.3,5.0,10.4
+,"California","06","Diseases of the circulatory system","I00-I99","2022","2022",25,425149,5.9,3.8,8.7
+,"California","06","Diseases of the respiratory system","J00-J98","2021","2021",20,422861,4.7,2.9,7.3
+,"California","06","Diseases of the respiratory system","J00-J98","2022","2022",19,425149,4.5,2.7,7.0
+,"California","06","Diseases of the digestive system","K00-K92","2021","2021",15,422861,3.5,2.0,5.9
+,"California","06","Certain conditions originating in the perinatal period","P00-P96","2021","2021",872,422861,206.2,192.5,219.9
+,"California","06","Certain conditions originating in the perinatal period","P00-P96","2022","2022",897,425149,211.0,197.2,224.8
+,"California","06","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",383,422861,90.6,81.5,99.6
+,"California","06","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",385,425149,90.6,81.5,99.6
+,"California","06","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",213,422861,50.4,43.6,57.1
+,"California","06","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",193,425149,45.4,39.0,51.8
+,"California","06","Codes for special purposes","U00-U99","2022","2022",13,425149,3.1,1.6,5.2
+,"California","06","External causes of morbidity and mortality","V01-Y89","2021","2021",65,422861,15.4,11.9,19.6
+,"California","06","External causes of morbidity and mortality","V01-Y89","2022","2022",72,425149,16.9,13.3,21.3
+,"Colorado","08","Certain infectious and parasitic diseases","A00-B99","2021","2021",10,60341,16.6,7.9,30.5
+,"Colorado","08","Certain conditions originating in the perinatal period","P00-P96","2021","2021",166,60341,275.1,233.3,317.0
+,"Colorado","08","Certain conditions originating in the perinatal period","P00-P96","2022","2022",143,62867,227.5,190.2,264.7
+,"Colorado","08","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",64,60341,106.1,81.7,135.4
+,"Colorado","08","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",63,62867,100.2,77.0,128.2
+,"Colorado","08","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",24,60341,39.8,25.5,59.2
+,"Colorado","08","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",22,62867,35.0,21.9,53.0
+,"Colorado","08","External causes of morbidity and mortality","V01-Y89","2021","2021",32,60341,53.0,36.3,74.9
+,"Colorado","08","External causes of morbidity and mortality","V01-Y89","2022","2022",27,62867,42.9,28.3,62.5
+,"Connecticut","09","Certain conditions originating in the perinatal period","P00-P96","2021","2021",88,32573,270.2,216.7,332.8
+,"Connecticut","09","Certain conditions originating in the perinatal period","P00-P96","2022","2022",81,35870,225.8,179.3,280.7
+,"Connecticut","09","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",24,32573,73.7,47.2,109.6
+,"Connecticut","09","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",28,35870,78.1,51.9,112.8
+,"Connecticut","09","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",17,32573,52.2,30.4,83.6
+,"Connecticut","09","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",15,35870,41.8,23.4,69.0
+,"Connecticut","09","External causes of morbidity and mortality","V01-Y89","2021","2021",11,32573,33.8,16.9,60.4
+,"Delaware","10","Certain conditions originating in the perinatal period","P00-P96","2021","2021",26,10280,252.9,165.2,370.6
+,"Delaware","10","Certain conditions originating in the perinatal period","P00-P96","2022","2022",52,10785,482.2,360.1,632.3
+,"Delaware","10","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",11,10785,102.0,50.9,182.5
+,"District of Columbia","11","Certain conditions originating in the perinatal period","P00-P96","2021","2021",29,8771,330.6,221.4,474.8
+,"District of Columbia","11","Certain conditions originating in the perinatal period","P00-P96","2022","2022",20,8261,242.1,147.9,373.9
+,"District of Columbia","11","External causes of morbidity and mortality","V01-Y89","2021","2021",10,8771,114.0,54.7,209.7
+,"Florida","12","Certain infectious and parasitic diseases","A00-B99","2021","2021",21,209420,10.0,6.2,15.3
+,"Florida","12","Certain infectious and parasitic diseases","A00-B99","2022","2022",43,220782,19.5,14.1,26.2
+,"Florida","12","Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism","D50-D89","2021","2021",11,209420,5.3,2.6,9.4
+,"Florida","12","Endocrine, nutritional and metabolic diseases","E00-E88","2021","2021",11,209420,5.3,2.6,9.4
+,"Florida","12","Endocrine, nutritional and metabolic diseases","E00-E88","2022","2022",14,220782,6.3,3.5,10.6
+,"Florida","12","Diseases of the nervous system","G00-G98","2021","2021",16,209420,7.6,4.4,12.4
+,"Florida","12","Diseases of the nervous system","G00-G98","2022","2022",10,220782,4.5,2.2,8.3
+,"Florida","12","Diseases of the circulatory system","I00-I99","2021","2021",29,209420,13.8,9.3,19.9
+,"Florida","12","Diseases of the circulatory system","I00-I99","2022","2022",30,220782,13.6,9.2,19.4
+,"Florida","12","Diseases of the respiratory system","J00-J98","2021","2021",22,209420,10.5,6.6,15.9
+,"Florida","12","Diseases of the respiratory system","J00-J98","2022","2022",20,220782,9.1,5.5,14.0
+,"Florida","12","Diseases of the digestive system","K00-K92","2021","2021",10,209420,4.8,2.3,8.8
+,"Florida","12","Diseases of the digestive system","K00-K92","2022","2022",18,220782,8.2,4.8,12.9
+,"Florida","12","Certain conditions originating in the perinatal period","P00-P96","2021","2021",658,209420,314.2,290.2,338.2
+,"Florida","12","Certain conditions originating in the perinatal period","P00-P96","2022","2022",694,220782,314.3,291.0,337.7
+,"Florida","12","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",222,209420,106.0,92.1,120.0
+,"Florida","12","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",224,220782,101.5,88.2,114.7
+,"Florida","12","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",120,209420,57.3,47.0,67.6
+,"Florida","12","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",124,220782,56.2,46.3,66.0
+,"Florida","12","Codes for special purposes","U00-U99","2022","2022",11,220782,5.0,2.5,8.9
+,"Florida","12","External causes of morbidity and mortality","V01-Y89","2021","2021",130,209420,62.1,51.4,72.7
+,"Florida","12","External causes of morbidity and mortality","V01-Y89","2022","2022",142,220782,64.3,53.7,74.9
+,"Georgia","13","Certain infectious and parasitic diseases","A00-B99","2021","2021",20,120296,16.6,10.2,25.7
+,"Georgia","13","Certain infectious and parasitic diseases","A00-B99","2022","2022",24,124954,19.2,12.3,28.6
+,"Georgia","13","Diseases of the circulatory system","I00-I99","2021","2021",21,120296,17.5,10.8,26.7
+,"Georgia","13","Diseases of the circulatory system","I00-I99","2022","2022",14,124954,11.2,6.1,18.8
+,"Georgia","13","Diseases of the respiratory system","J00-J98","2021","2021",10,120296,8.3,4.0,15.3
+,"Georgia","13","Diseases of the respiratory system","J00-J98","2022","2022",18,124954,14.4,8.5,22.8
+,"Georgia","13","Certain conditions originating in the perinatal period","P00-P96","2021","2021",338,120296,281.0,251.0,310.9
+,"Georgia","13","Certain conditions originating in the perinatal period","P00-P96","2022","2022",415,124954,332.1,300.2,364.1
+,"Georgia","13","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",147,120296,122.2,102.4,142.0
+,"Georgia","13","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",148,124954,118.4,99.4,137.5
+,"Georgia","13","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",146,120296,121.4,101.7,141.1
+,"Georgia","13","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",165,124954,132.0,111.9,152.2
+,"Georgia","13","External causes of morbidity and mortality","V01-Y89","2021","2021",60,120296,49.9,38.1,64.2
+,"Georgia","13","External causes of morbidity and mortality","V01-Y89","2022","2022",71,124954,56.8,44.4,71.7
+,"Hawaii","15","Certain conditions originating in the perinatal period","P00-P96","2021","2021",38,15810,240.4,170.1,329.9
+,"Hawaii","15","Certain conditions originating in the perinatal period","P00-P96","2022","2022",51,15804,322.7,240.3,424.3
+,"Hawaii","15","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",11,15810,69.6,34.7,124.5
+,"Hawaii","15","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",18,15804,113.9,67.5,180.0
+,"Idaho","16","Certain conditions originating in the perinatal period","P00-P96","2021","2021",54,21203,254.7,191.3,332.3
+,"Idaho","16","Certain conditions originating in the perinatal period","P00-P96","2022","2022",54,22368,241.4,181.4,315.0
+,"Idaho","16","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",25,21203,117.9,76.3,174.1
+,"Idaho","16","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",25,22368,111.8,72.3,165.0
+,"Idaho","16","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",14,21203,66.0,36.1,110.8
+,"Idaho","16","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",15,22368,67.1,37.5,110.6
+,"Idaho","16","External causes of morbidity and mortality","V01-Y89","2021","2021",13,21203,61.3,32.6,104.8
+,"Idaho","16","External causes of morbidity and mortality","V01-Y89","2022","2022",12,22368,53.6,27.7,93.7
+,"Illinois","17","Certain infectious and parasitic diseases","A00-B99","2021","2021",15,132242,11.3,6.3,18.7
+,"Illinois","17","Diseases of the circulatory system","I00-I99","2021","2021",11,132242,8.3,4.2,14.9
+,"Illinois","17","Diseases of the respiratory system","J00-J98","2021","2021",15,132242,11.3,6.3,18.7
+,"Illinois","17","Diseases of the respiratory system","J00-J98","2022","2022",25,131093,19.1,12.3,28.2
+,"Illinois","17","Certain conditions originating in the perinatal period","P00-P96","2021","2021",360,132242,272.2,244.1,300.3
+,"Illinois","17","Certain conditions originating in the perinatal period","P00-P96","2022","2022",418,131093,318.9,288.3,349.4
+,"Illinois","17","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",152,132242,114.9,96.7,133.2
+,"Illinois","17","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",113,131093,86.2,70.3,102.1
+,"Illinois","17","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",96,132242,72.6,58.8,88.6
+,"Illinois","17","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",54,131093,41.2,30.9,53.7
+,"Illinois","17","External causes of morbidity and mortality","V01-Y89","2021","2021",66,132242,49.9,38.6,63.5
+,"Illinois","17","External causes of morbidity and mortality","V01-Y89","2022","2022",66,131093,50.3,38.9,64.1
+,"Indiana","18","Certain infectious and parasitic diseases","A00-B99","2021","2021",10,77027,13.0,6.2,23.9
+,"Indiana","18","Certain infectious and parasitic diseases","A00-B99","2022","2022",15,79786,18.8,10.5,31.0
+,"Indiana","18","Diseases of the respiratory system","J00-J98","2021","2021",11,77027,14.3,7.1,25.6
+,"Indiana","18","Diseases of the respiratory system","J00-J98","2022","2022",13,79786,16.3,8.7,27.9
+,"Indiana","18","Certain conditions originating in the perinatal period","P00-P96","2021","2021",235,77027,305.1,266.1,344.1
+,"Indiana","18","Certain conditions originating in the perinatal period","P00-P96","2022","2022",288,79786,361.0,319.3,402.7
+,"Indiana","18","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",126,77027,163.6,135.0,192.1
+,"Indiana","18","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",103,79786,129.1,104.2,154.0
+,"Indiana","18","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",62,77027,80.5,61.7,103.2
+,"Indiana","18","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",72,79786,90.2,70.6,113.6
+,"Indiana","18","External causes of morbidity and mortality","V01-Y89","2021","2021",54,77027,70.1,52.7,91.5
+,"Indiana","18","External causes of morbidity and mortality","V01-Y89","2022","2022",51,79786,63.9,47.6,84.0
+,"Iowa","19","Certain conditions originating in the perinatal period","P00-P96","2021","2021",76,35621,213.4,168.1,267.0
+,"Iowa","19","Certain conditions originating in the perinatal period","P00-P96","2022","2022",77,36786,209.3,165.2,261.6
+,"Iowa","19","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",29,35621,81.4,54.5,116.9
+,"Iowa","19","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",52,36786,141.4,105.6,185.4
+,"Iowa","19","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",22,35621,61.8,38.7,93.5
+,"Iowa","19","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",35,36786,95.1,66.3,132.3
+,"Iowa","19","External causes of morbidity and mortality","V01-Y89","2022","2022",14,36786,38.1,20.8,63.9
+,"Kansas","20","Certain conditions originating in the perinatal period","P00-P96","2021","2021",75,33442,224.3,176.4,281.1
+,"Kansas","20","Certain conditions originating in the perinatal period","P00-P96","2022","2022",86,34772,247.3,197.8,305.4
+,"Kansas","20","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",40,33442,119.6,85.5,162.9
+,"Kansas","20","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",53,34772,152.4,114.2,199.4
+,"Kansas","20","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",35,33442,104.7,72.9,145.6
+,"Kansas","20","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",25,34772,71.9,46.5,106.1
+,"Kansas","20","External causes of morbidity and mortality","V01-Y89","2021","2021",21,33442,62.8,38.9,96.0
+,"Kansas","20","External causes of morbidity and mortality","V01-Y89","2022","2022",19,34772,54.6,32.9,85.3
+,"Kentucky","21","Certain conditions originating in the perinatal period","P00-P96","2021","2021",119,50391,236.2,193.7,278.6
+,"Kentucky","21","Certain conditions originating in the perinatal period","P00-P96","2022","2022",124,52123,237.9,196.0,279.8
+,"Kentucky","21","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",78,50391,154.8,122.4,193.2
+,"Kentucky","21","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",68,52123,130.5,101.3,165.4
+,"Kentucky","21","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",67,50391,133.0,103.0,168.9
+,"Kentucky","21","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",62,52123,118.9,91.2,152.5
+,"Kentucky","21","External causes of morbidity and mortality","V01-Y89","2021","2021",29,50391,57.5,38.5,82.7
+,"Kentucky","21","External causes of morbidity and mortality","V01-Y89","2022","2022",21,52123,40.3,24.9,61.6
+,"Louisiana","22","Certain infectious and parasitic diseases","A00-B99","2021","2021",22,55418,39.7,24.9,60.1
+,"Louisiana","22","Certain infectious and parasitic diseases","A00-B99","2022","2022",12,56702,21.2,10.9,37.0
+,"Louisiana","22","Diseases of the nervous system","G00-G98","2022","2022",10,56702,17.6,8.5,32.4
+,"Louisiana","22","Diseases of the circulatory system","I00-I99","2021","2021",11,55418,19.8,9.9,35.5
+,"Louisiana","22","Diseases of the respiratory system","J00-J98","2021","2021",10,55418,18.0,8.7,33.2
+,"Louisiana","22","Certain conditions originating in the perinatal period","P00-P96","2021","2021",165,55418,297.7,252.3,343.2
+,"Louisiana","22","Certain conditions originating in the perinatal period","P00-P96","2022","2022",197,56702,347.4,298.9,395.9
+,"Louisiana","22","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",64,55418,115.5,88.9,147.5
+,"Louisiana","22","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",53,56702,93.5,70.0,122.3
+,"Louisiana","22","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",37,55418,66.8,47.0,92.0
+,"Louisiana","22","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",39,56702,68.8,48.9,94.0
+,"Louisiana","22","External causes of morbidity and mortality","V01-Y89","2021","2021",84,55418,151.6,120.9,187.7
+,"Louisiana","22","External causes of morbidity and mortality","V01-Y89","2022","2022",73,56702,128.7,100.9,161.9
+,"Maine","23","Certain conditions originating in the perinatal period","P00-P96","2021","2021",24,11261,213.1,136.6,317.1
+,"Maine","23","Certain conditions originating in the perinatal period","P00-P96","2022","2022",42,12002,349.9,252.2,473.0
+,"Maine","23","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",16,11261,142.1,81.2,230.7
+,"Maine","23","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",15,12002,125.0,69.9,206.1
+,"Maine","23","External causes of morbidity and mortality","V01-Y89","2022","2022",11,12002,91.7,45.8,164.0
+,"Maryland","24","Certain infectious and parasitic diseases","A00-B99","2021","2021",11,66594,16.5,8.2,29.6
+,"Maryland","24","Certain conditions originating in the perinatal period","P00-P96","2021","2021",221,66594,331.9,288.1,375.6
+,"Maryland","24","Certain conditions originating in the perinatal period","P00-P96","2022","2022",242,69158,349.9,305.8,394.0
+,"Maryland","24","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",72,66594,108.1,84.6,136.2
+,"Maryland","24","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",67,69158,96.9,75.1,123.0
+,"Maryland","24","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",62,66594,93.1,71.4,119.4
+,"Maryland","24","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",58,69158,83.9,63.7,108.4
+,"Maryland","24","External causes of morbidity and mortality","V01-Y89","2021","2021",19,66594,28.5,17.2,44.6
+,"Maryland","24","External causes of morbidity and mortality","V01-Y89","2022","2022",17,69158,24.6,14.3,39.4
+,"Massachusetts","25","Certain infectious and parasitic diseases","A00-B99","2022","2022",13,70623,18.4,9.8,31.5
+,"Massachusetts","25","Certain conditions originating in the perinatal period","P00-P96","2021","2021",122,66368,183.8,151.2,216.4
+,"Massachusetts","25","Certain conditions originating in the perinatal period","P00-P96","2022","2022",124,70623,175.6,144.7,206.5
+,"Massachusetts","25","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",42,66368,63.3,45.6,85.5
+,"Massachusetts","25","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",36,70623,51.0,35.7,70.6
+,"Massachusetts","25","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",33,66368,49.7,34.2,69.8
+,"Massachusetts","25","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",27,70623,38.2,25.2,55.6
+,"Michigan","26","Diseases of the circulatory system","I00-I99","2022","2022",10,104605,9.6,4.6,17.6
+,"Michigan","26","Diseases of the respiratory system","J00-J98","2021","2021",10,102347,9.8,4.7,18.0
+,"Michigan","26","Diseases of the respiratory system","J00-J98","2022","2022",22,104605,21.0,13.2,31.8
+,"Michigan","26","Certain conditions originating in the perinatal period","P00-P96","2021","2021",356,102347,347.8,311.7,384.0
+,"Michigan","26","Certain conditions originating in the perinatal period","P00-P96","2022","2022",321,104605,306.9,273.3,340.4
+,"Michigan","26","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",97,102347,94.8,76.9,115.6
+,"Michigan","26","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",110,104605,105.2,85.5,124.8
+,"Michigan","26","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",75,102347,73.3,57.6,91.9
+,"Michigan","26","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",75,104605,71.7,56.4,89.9
+,"Michigan","26","External causes of morbidity and mortality","V01-Y89","2021","2021",76,102347,74.3,58.5,92.9
+,"Michigan","26","External causes of morbidity and mortality","V01-Y89","2022","2022",71,104605,67.9,53.0,85.6
+,"Minnesota","27","Diseases of the respiratory system","J00-J98","2021","2021",11,62897,17.5,8.7,31.3
+,"Minnesota","27","Certain conditions originating in the perinatal period","P00-P96","2021","2021",142,62897,225.8,188.6,262.9
+,"Minnesota","27","Certain conditions originating in the perinatal period","P00-P96","2022","2022",149,64755,230.1,193.2,267.0
+,"Minnesota","27","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",84,62897,133.6,106.5,165.3
+,"Minnesota","27","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",64,64755,98.8,76.1,126.2
+,"Minnesota","27","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",24,62897,38.2,24.4,56.8
+,"Minnesota","27","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",15,64755,23.2,13.0,38.2
+,"Minnesota","27","External causes of morbidity and mortality","V01-Y89","2021","2021",30,62897,47.7,32.2,68.1
+,"Minnesota","27","External causes of morbidity and mortality","V01-Y89","2022","2022",30,64755,46.3,31.3,66.1
+,"Mississippi","28","Certain infectious and parasitic diseases","A00-B99","2022","2022",12,34735,34.5,17.9,60.3
+,"Mississippi","28","Certain conditions originating in the perinatal period","P00-P96","2021","2021",136,34518,394.0,327.8,460.2
+,"Mississippi","28","Certain conditions originating in the perinatal period","P00-P96","2022","2022",139,34735,400.2,333.6,466.7
+,"Mississippi","28","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",54,34518,156.4,117.5,204.1
+,"Mississippi","28","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",54,34735,155.5,116.8,202.8
+,"Mississippi","28","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",69,34518,199.9,155.5,253.0
+,"Mississippi","28","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",48,34735,138.2,101.9,183.2
+,"Mississippi","28","External causes of morbidity and mortality","V01-Y89","2021","2021",34,34518,98.5,68.2,137.6
+,"Mississippi","28","External causes of morbidity and mortality","V01-Y89","2022","2022",49,34735,141.1,104.4,186.5
+,"Missouri","29","Certain infectious and parasitic diseases","A00-B99","2022","2022",10,69009,14.5,6.9,26.6
+,"Missouri","29","Diseases of the circulatory system","I00-I99","2021","2021",10,68379,14.6,7.0,26.9
+,"Missouri","29","Diseases of the respiratory system","J00-J98","2021","2021",11,68379,16.1,8.0,28.8
+,"Missouri","29","Diseases of the respiratory system","J00-J98","2022","2022",12,69009,17.4,9.0,30.4
+,"Missouri","29","Certain conditions originating in the perinatal period","P00-P96","2021","2021",178,68379,260.3,222.1,298.6
+,"Missouri","29","Certain conditions originating in the perinatal period","P00-P96","2022","2022",213,69009,308.7,267.2,350.1
+,"Missouri","29","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",74,68379,108.2,85.0,135.9
+,"Missouri","29","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",75,69009,108.7,85.5,136.2
+,"Missouri","29","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",32,68379,46.8,32.0,66.1
+,"Missouri","29","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",30,69009,43.5,29.3,62.1
+,"Missouri","29","External causes of morbidity and mortality","V01-Y89","2021","2021",65,68379,95.1,73.4,121.2
+,"Missouri","29","External causes of morbidity and mortality","V01-Y89","2022","2022",91,69009,131.9,106.2,161.9
+,"Montana","30","Certain conditions originating in the perinatal period","P00-P96","2021","2021",18,10555,170.5,101.1,269.5
+,"Montana","30","Certain conditions originating in the perinatal period","P00-P96","2022","2022",23,11201,205.3,130.2,308.1
+,"Montana","30","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",10,11201,89.3,42.8,164.2
+,"Montana","30","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",14,10555,132.6,72.5,222.5
+,"Montana","30","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",15,11201,133.9,75.0,220.9
+,"Nebraska","31","Certain conditions originating in the perinatal period","P00-P96","2021","2021",55,23444,234.6,176.7,305.4
+,"Nebraska","31","Certain conditions originating in the perinatal period","P00-P96","2022","2022",66,24347,271.1,209.7,344.9
+,"Nebraska","31","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",28,23444,119.4,79.4,172.6
+,"Nebraska","31","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",38,24347,156.1,110.4,214.2
+,"Nebraska","31","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",11,23444,46.9,23.4,84.0
+,"Nebraska","31","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",13,24347,53.4,28.4,91.3
+,"Nebraska","31","External causes of morbidity and mortality","V01-Y89","2021","2021",20,23444,85.3,52.1,131.8
+,"Nebraska","31","External causes of morbidity and mortality","V01-Y89","2022","2022",12,24347,49.3,25.5,86.1
+,"Nevada","32","Certain conditions originating in the perinatal period","P00-P96","2021","2021",84,33591,250.1,199.5,309.6
+,"Nevada","32","Certain conditions originating in the perinatal period","P00-P96","2022","2022",62,33611,184.5,141.4,236.5
+,"Nevada","32","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",36,33591,107.2,75.1,148.4
+,"Nevada","32","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",28,33611,83.3,55.4,120.4
+,"Nevada","32","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",21,33591,62.5,38.7,95.6
+,"Nevada","32","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",24,33611,71.4,45.8,106.2
+,"Nevada","32","External causes of morbidity and mortality","V01-Y89","2021","2021",28,33591,83.4,55.4,120.5
+,"Nevada","32","External causes of morbidity and mortality","V01-Y89","2022","2022",24,33611,71.4,45.8,106.2
+,"New Hampshire","33","Certain conditions originating in the perinatal period","P00-P96","2021","2021",25,11431,218.7,141.5,322.9
+,"New Hampshire","33","Certain conditions originating in the perinatal period","P00-P96","2022","2022",20,12713,157.3,96.1,243.0
+,"New Hampshire","33","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",14,11431,122.5,67.0,205.5
+,"New Hampshire","33","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",11,12713,86.5,43.2,154.8
+,"New Jersey","34","Diseases of the circulatory system","I00-I99","2021","2021",10,95197,10.5,5.0,19.3
+,"New Jersey","34","Diseases of the circulatory system","I00-I99","2022","2022",10,102910,9.7,4.7,17.9
+,"New Jersey","34","Diseases of the respiratory system","J00-J98","2022","2022",10,102910,9.7,4.7,17.9
+,"New Jersey","34","Certain conditions originating in the perinatal period","P00-P96","2021","2021",187,95197,196.4,168.3,224.6
+,"New Jersey","34","Certain conditions originating in the perinatal period","P00-P96","2022","2022",194,102910,188.5,162.0,215.0
+,"New Jersey","34","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",60,95197,63.0,48.1,81.1
+,"New Jersey","34","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",62,102910,60.2,46.2,77.2
+,"New Jersey","34","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",46,95197,48.3,35.4,64.5
+,"New Jersey","34","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",55,102910,53.4,40.3,69.6
+,"New Jersey","34","External causes of morbidity and mortality","V01-Y89","2021","2021",29,95197,30.5,20.4,43.8
+,"New Jersey","34","External causes of morbidity and mortality","V01-Y89","2022","2022",11,102910,10.7,5.3,19.1
+,"New Mexico","35","Certain conditions originating in the perinatal period","P00-P96","2021","2021",33,21836,151.1,104.0,212.2
+,"New Mexico","35","Certain conditions originating in the perinatal period","P00-P96","2022","2022",57,20830,273.6,207.3,354.5
+,"New Mexico","35","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",19,21836,87.0,52.4,135.9
+,"New Mexico","35","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",30,20830,144.0,97.2,205.6
+,"New Mexico","35","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",16,21836,73.3,41.9,119.0
+,"New Mexico","35","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",15,20830,72.0,40.3,118.8
+,"New Mexico","35","External causes of morbidity and mortality","V01-Y89","2021","2021",21,21836,96.2,59.5,147.0
+,"New Mexico","35","External causes of morbidity and mortality","V01-Y89","2022","2022",10,20830,48.0,23.0,88.3
+,"New York","36","Certain infectious and parasitic diseases","A00-B99","2021","2021",29,211231,13.7,9.2,19.7
+,"New York","36","Certain infectious and parasitic diseases","A00-B99","2022","2022",18,214746,8.4,5.0,13.2
+,"New York","36","Endocrine, nutritional and metabolic diseases","E00-E88","2021","2021",15,211231,7.1,4.0,11.7
+,"New York","36","Endocrine, nutritional and metabolic diseases","E00-E88","2022","2022",11,214746,5.1,2.6,9.2
+,"New York","36","Diseases of the nervous system","G00-G98","2021","2021",12,211231,5.7,2.9,9.9
+,"New York","36","Diseases of the nervous system","G00-G98","2022","2022",16,214746,7.5,4.3,12.1
+,"New York","36","Diseases of the circulatory system","I00-I99","2021","2021",16,211231,7.6,4.3,12.3
+,"New York","36","Diseases of the circulatory system","I00-I99","2022","2022",15,214746,7.0,3.9,11.5
+,"New York","36","Diseases of the respiratory system","J00-J98","2021","2021",15,211231,7.1,4.0,11.7
+,"New York","36","Diseases of the respiratory system","J00-J98","2022","2022",20,214746,9.3,5.7,14.4
+,"New York","36","Certain conditions originating in the perinatal period","P00-P96","2021","2021",422,211231,199.8,180.7,218.8
+,"New York","36","Certain conditions originating in the perinatal period","P00-P96","2022","2022",419,214746,195.1,176.4,213.8
+,"New York","36","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",162,211231,76.7,64.9,88.5
+,"New York","36","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",187,214746,87.1,74.6,99.6
+,"New York","36","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",114,211231,54.0,44.1,63.9
+,"New York","36","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",102,214746,47.5,38.3,56.7
+,"New York","36","Codes for special purposes","U00-U99","2022","2022",12,214746,5.6,2.9,9.8
+,"New York","36","External causes of morbidity and mortality","V01-Y89","2021","2021",59,211231,27.9,21.3,36.0
+,"New York","36","External causes of morbidity and mortality","V01-Y89","2022","2022",65,214746,30.3,23.4,38.6
+,"North Carolina","37","Certain infectious and parasitic diseases","A00-B99","2021","2021",10,113170,8.8,4.2,16.3
+,"North Carolina","37","Certain infectious and parasitic diseases","A00-B99","2022","2022",13,121554,10.7,5.7,18.3
+,"North Carolina","37","Endocrine, nutritional and metabolic diseases","E00-E88","2021","2021",11,113170,9.7,4.9,17.4
+,"North Carolina","37","Diseases of the nervous system","G00-G98","2021","2021",12,113170,10.6,5.5,18.5
+,"North Carolina","37","Diseases of the circulatory system","I00-I99","2021","2021",19,113170,16.8,10.1,26.2
+,"North Carolina","37","Diseases of the circulatory system","I00-I99","2022","2022",17,121554,14.0,8.1,22.4
+,"North Carolina","37","Diseases of the respiratory system","J00-J98","2021","2021",13,113170,11.5,6.1,19.6
+,"North Carolina","37","Diseases of the respiratory system","J00-J98","2022","2022",17,121554,14.0,8.1,22.4
+,"North Carolina","37","Certain conditions originating in the perinatal period","P00-P96","2021","2021",377,113170,333.1,299.5,366.8
+,"North Carolina","37","Certain conditions originating in the perinatal period","P00-P96","2022","2022",425,121554,349.6,316.4,382.9
+,"North Carolina","37","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",148,113170,130.8,109.7,151.8
+,"North Carolina","37","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",134,121554,110.2,91.6,128.9
+,"North Carolina","37","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",156,113170,137.8,116.2,159.5
+,"North Carolina","37","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",121,121554,99.5,81.8,117.3
+,"North Carolina","37","External causes of morbidity and mortality","V01-Y89","2021","2021",52,113170,45.9,34.3,60.3
+,"North Carolina","37","External causes of morbidity and mortality","V01-Y89","2022","2022",73,121554,60.1,47.1,75.5
+,"North Dakota","38","Certain conditions originating in the perinatal period","P00-P96","2021","2021",14,9740,143.7,78.6,241.2
+,"North Dakota","38","Certain conditions originating in the perinatal period","P00-P96","2022","2022",20,10093,198.2,121.0,306.0
+,"North Dakota","38","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",12,10093,118.9,61.4,207.7
+,"Ohio","39","Certain infectious and parasitic diseases","A00-B99","2021","2021",21,127649,16.5,10.2,25.1
+,"Ohio","39","Certain infectious and parasitic diseases","A00-B99","2022","2022",20,128822,15.5,9.5,24.0
+,"Ohio","39","Diseases of the nervous system","G00-G98","2021","2021",11,127649,8.6,4.3,15.4
+,"Ohio","39","Diseases of the circulatory system","I00-I99","2021","2021",15,127649,11.8,6.6,19.4
+,"Ohio","39","Diseases of the circulatory system","I00-I99","2022","2022",19,128822,14.7,8.9,23.0
+,"Ohio","39","Diseases of the respiratory system","J00-J98","2021","2021",20,127649,15.7,9.6,24.2
+,"Ohio","39","Diseases of the respiratory system","J00-J98","2022","2022",22,128822,17.1,10.7,25.9
+,"Ohio","39","Diseases of the digestive system","K00-K92","2021","2021",13,127649,10.2,5.4,17.4
+,"Ohio","39","Certain conditions originating in the perinatal period","P00-P96","2021","2021",459,127649,359.6,326.7,392.5
+,"Ohio","39","Certain conditions originating in the perinatal period","P00-P96","2022","2022",450,128822,349.3,317.0,381.6
+,"Ohio","39","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",162,127649,126.9,107.4,146.5
+,"Ohio","39","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",149,128822,115.7,97.1,134.2
+,"Ohio","39","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",92,127649,72.1,58.1,88.4
+,"Ohio","39","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",104,128822,80.7,65.2,96.2
+,"Ohio","39","Codes for special purposes","U00-U99","2022","2022",10,128822,7.8,3.7,14.3
+,"Ohio","39","External causes of morbidity and mortality","V01-Y89","2021","2021",96,127649,75.2,60.9,91.8
+,"Ohio","39","External causes of morbidity and mortality","V01-Y89","2022","2022",110,128822,85.4,69.4,101.3
+,"Oklahoma","40","Certain conditions originating in the perinatal period","P00-P96","2021","2021",157,46696,336.2,283.6,388.8
+,"Oklahoma","40","Certain conditions originating in the perinatal period","P00-P96","2022","2022",152,47793,318.0,267.5,368.6
+,"Oklahoma","40","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",69,46696,147.8,115.0,187.0
+,"Oklahoma","40","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",63,47793,131.8,101.3,168.7
+,"Oklahoma","40","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",52,46696,111.4,83.2,146.0
+,"Oklahoma","40","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",58,47793,121.4,92.2,156.9
+,"Oklahoma","40","External causes of morbidity and mortality","V01-Y89","2021","2021",33,46696,70.7,48.6,99.2
+,"Oklahoma","40","External causes of morbidity and mortality","V01-Y89","2022","2022",32,47793,67.0,45.8,94.5
+,"Oregon","41","Certain conditions originating in the perinatal period","P00-P96","2021","2021",75,39738,188.7,148.5,236.6
+,"Oregon","41","Certain conditions originating in the perinatal period","P00-P96","2022","2022",89,41052,216.8,174.1,266.8
+,"Oregon","41","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",35,39738,88.1,61.3,122.5
+,"Oregon","41","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",29,41052,70.6,47.3,101.5
+,"Oregon","41","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",15,39738,37.7,21.1,62.3
+,"Oregon","41","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",28,41052,68.2,45.3,98.6
+,"Oregon","41","External causes of morbidity and mortality","V01-Y89","2021","2021",18,39738,45.3,26.8,71.6
+,"Oregon","41","External causes of morbidity and mortality","V01-Y89","2022","2022",16,41052,39.0,22.3,63.3
+,"Pennsylvania","42","Certain infectious and parasitic diseases","A00-B99","2021","2021",11,127582,8.6,4.3,15.4
+,"Pennsylvania","42","Diseases of the nervous system","G00-G98","2021","2021",15,127582,11.8,6.6,19.4
+,"Pennsylvania","42","Diseases of the circulatory system","I00-I99","2021","2021",14,127582,11.0,6.0,18.4
+,"Pennsylvania","42","Diseases of the circulatory system","I00-I99","2022","2022",12,131552,9.1,4.7,15.9
+,"Pennsylvania","42","Diseases of the respiratory system","J00-J98","2021","2021",16,127582,12.5,7.2,20.4
+,"Pennsylvania","42","Diseases of the respiratory system","J00-J98","2022","2022",14,131552,10.6,5.8,17.9
+,"Pennsylvania","42","Certain conditions originating in the perinatal period","P00-P96","2021","2021",377,127582,295.5,265.7,325.3
+,"Pennsylvania","42","Certain conditions originating in the perinatal period","P00-P96","2022","2022",409,131552,310.9,280.8,341.0
+,"Pennsylvania","42","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",128,127582,100.3,82.9,117.7
+,"Pennsylvania","42","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",104,131552,79.1,63.9,94.3
+,"Pennsylvania","42","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",91,127582,71.3,57.4,87.6
+,"Pennsylvania","42","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",103,131552,78.3,63.2,93.4
+,"Pennsylvania","42","External causes of morbidity and mortality","V01-Y89","2021","2021",44,127582,34.5,25.1,46.3
+,"Pennsylvania","42","External causes of morbidity and mortality","V01-Y89","2022","2022",61,131552,46.4,35.5,59.6
+,"Rhode Island","44","Certain conditions originating in the perinatal period","P00-P96","2021","2021",21,9673,217.1,134.4,331.9
+,"Rhode Island","44","Certain conditions originating in the perinatal period","P00-P96","2022","2022",25,10532,237.4,153.6,350.4
+,"Rhode Island","44","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",15,9673,155.1,86.8,255.8
+,"South Carolina","45","Certain infectious and parasitic diseases","A00-B99","2021","2021",15,54309,27.6,15.5,45.6
+,"South Carolina","45","Certain conditions originating in the perinatal period","P00-P96","2021","2021",204,54309,375.6,324.1,427.2
+,"South Carolina","45","Certain conditions originating in the perinatal period","P00-P96","2022","2022",185,56849,325.4,278.5,372.3
+,"South Carolina","45","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",77,54309,141.8,111.9,177.2
+,"South Carolina","45","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",71,56849,124.9,97.5,157.5
+,"South Carolina","45","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",59,54309,108.6,82.7,140.1
+,"South Carolina","45","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",54,56849,95.0,71.4,123.9
+,"South Carolina","45","External causes of morbidity and mortality","V01-Y89","2021","2021",38,54309,70.0,49.5,96.0
+,"South Carolina","45","External causes of morbidity and mortality","V01-Y89","2022","2022",45,56849,79.2,57.7,105.9
+,"South Dakota","46","Certain conditions originating in the perinatal period","P00-P96","2021","2021",21,10917,192.4,119.1,294.0
+,"South Dakota","46","Certain conditions originating in the perinatal period","P00-P96","2022","2022",33,11445,288.3,198.5,404.9
+,"South Dakota","46","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",19,10917,174.0,104.8,271.8
+,"South Dakota","46","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",22,11445,192.2,120.5,291.0
+,"South Dakota","46","External causes of morbidity and mortality","V01-Y89","2022","2022",13,11445,113.6,60.5,194.2
+,"Tennessee","47","Certain infectious and parasitic diseases","A00-B99","2021","2021",19,76671,24.8,14.9,38.7
+,"Tennessee","47","Certain infectious and parasitic diseases","A00-B99","2022","2022",16,81460,19.6,11.2,31.9
+,"Tennessee","47","Diseases of the circulatory system","I00-I99","2021","2021",10,76671,13.0,6.3,24.0
+,"Tennessee","47","Diseases of the respiratory system","J00-J98","2022","2022",10,81460,12.3,5.9,22.6
+,"Tennessee","47","Certain conditions originating in the perinatal period","P00-P96","2021","2021",174,76671,226.9,193.2,260.7
+,"Tennessee","47","Certain conditions originating in the perinatal period","P00-P96","2022","2022",195,81460,239.4,205.8,273.0
+,"Tennessee","47","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",108,76671,140.9,114.3,167.4
+,"Tennessee","47","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",121,81460,148.5,122.1,175.0
+,"Tennessee","47","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",82,76671,107.0,85.1,132.8
+,"Tennessee","47","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",94,81460,115.4,93.2,141.2
+,"Tennessee","47","External causes of morbidity and mortality","V01-Y89","2021","2021",85,76671,110.9,88.6,137.1
+,"Tennessee","47","External causes of morbidity and mortality","V01-Y89","2022","2022",72,81460,88.4,69.2,111.3
+,"Texas","48","Certain infectious and parasitic diseases","A00-B99","2021","2021",37,360323,10.3,7.2,14.2
+,"Texas","48","Certain infectious and parasitic diseases","A00-B99","2022","2022",51,378682,13.5,10.0,17.7
+,"Texas","48","Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism","D50-D89","2022","2022",11,378682,2.9,1.5,5.2
+,"Texas","48","Endocrine, nutritional and metabolic diseases","E00-E88","2021","2021",13,360323,3.6,1.9,6.2
+,"Texas","48","Endocrine, nutritional and metabolic diseases","E00-E88","2022","2022",15,378682,4.0,2.2,6.5
+,"Texas","48","Diseases of the nervous system","G00-G98","2021","2021",27,360323,7.5,4.9,10.9
+,"Texas","48","Diseases of the nervous system","G00-G98","2022","2022",18,378682,4.8,2.8,7.5
+,"Texas","48","Diseases of the circulatory system","I00-I99","2021","2021",43,360323,11.9,8.6,16.1
+,"Texas","48","Diseases of the circulatory system","I00-I99","2022","2022",50,378682,13.2,9.8,17.4
+,"Texas","48","Diseases of the respiratory system","J00-J98","2021","2021",20,360323,5.6,3.4,8.6
+,"Texas","48","Diseases of the respiratory system","J00-J98","2022","2022",31,378682,8.2,5.6,11.6
+,"Texas","48","Diseases of the digestive system","K00-K92","2021","2021",18,360323,5.0,3.0,7.9
+,"Texas","48","Certain conditions originating in the perinatal period","P00-P96","2021","2021",939,360323,260.6,243.9,277.3
+,"Texas","48","Certain conditions originating in the perinatal period","P00-P96","2022","2022",1024,378682,270.4,253.8,287.0
+,"Texas","48","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",445,360323,123.5,112.0,135.0
+,"Texas","48","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",549,378682,145.0,132.8,157.1
+,"Texas","48","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",285,360323,79.1,69.9,88.3
+,"Texas","48","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",317,378682,83.7,74.5,92.9
+,"Texas","48","Codes for special purposes","U00-U99","2021","2021",11,360323,3.1,1.5,5.5
+,"Texas","48","Codes for special purposes","U00-U99","2022","2022",10,378682,2.6,1.3,4.9
+,"Texas","48","External causes of morbidity and mortality","V01-Y89","2021","2021",123,360323,34.1,28.1,40.2
+,"Texas","48","External causes of morbidity and mortality","V01-Y89","2022","2022",142,378682,37.5,31.3,43.7
+,"Utah","49","Certain conditions originating in the perinatal period","P00-P96","2021","2021",97,44946,215.8,175.0,263.3
+,"Utah","49","Certain conditions originating in the perinatal period","P00-P96","2022","2022",124,46679,265.6,218.9,312.4
+,"Utah","49","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",58,44946,129.0,98.0,166.8
+,"Utah","49","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",50,46679,107.1,79.5,141.2
+,"Utah","49","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",26,44946,57.8,37.8,84.8
+,"Utah","49","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",26,46679,55.7,36.4,81.6
+,"Vermont","50","Certain conditions originating in the perinatal period","P00-P96","2021","2021",11,5073,216.8,108.2,388.0
+,"Virginia","51","Diseases of the circulatory system","I00-I99","2021","2021",13,92468,14.1,7.5,24.0
+,"Virginia","51","Diseases of the respiratory system","J00-J98","2021","2021",13,92468,14.1,7.5,24.0
+,"Virginia","51","Certain conditions originating in the perinatal period","P00-P96","2021","2021",271,92468,293.1,258.2,328.0
+,"Virginia","51","Certain conditions originating in the perinatal period","P00-P96","2022","2022",312,96728,322.6,286.8,358.3
+,"Virginia","51","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",114,92468,123.3,100.7,145.9
+,"Virginia","51","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",108,96728,111.7,90.6,132.7
+,"Virginia","51","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",88,92468,95.2,76.3,117.2
+,"Virginia","51","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",102,96728,105.5,85.0,125.9
+,"Virginia","51","External causes of morbidity and mortality","V01-Y89","2021","2021",34,92468,36.8,25.5,51.4
+,"Virginia","51","External causes of morbidity and mortality","V01-Y89","2022","2022",25,96728,25.8,16.7,38.2
+,"Washington","53","Certain conditions originating in the perinatal period","P00-P96","2021","2021",161,81060,198.6,167.9,229.3
+,"Washington","53","Certain conditions originating in the perinatal period","P00-P96","2022","2022",188,84431,222.7,190.8,254.5
+,"Washington","53","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",80,81060,98.7,78.3,122.8
+,"Washington","53","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",61,84431,72.2,55.3,92.8
+,"Washington","53","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",62,81060,76.5,58.6,98.1
+,"Washington","53","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",52,84431,61.6,46.0,80.8
+,"Washington","53","External causes of morbidity and mortality","V01-Y89","2021","2021",21,81060,25.9,16.0,39.6
+,"Washington","53","External causes of morbidity and mortality","V01-Y89","2022","2022",22,84431,26.1,16.3,39.5
+,"West Virginia","54","Certain conditions originating in the perinatal period","P00-P96","2021","2021",51,17094,298.4,222.1,392.3
+,"West Virginia","54","Certain conditions originating in the perinatal period","P00-P96","2022","2022",57,17376,328.0,248.5,425.0
+,"West Virginia","54","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",30,17094,175.5,118.4,250.5
+,"West Virginia","54","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",27,17376,155.4,102.4,226.1
+,"West Virginia","54","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",22,17094,128.7,80.7,194.9
+,"West Virginia","54","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",22,17376,126.6,79.3,191.7
+,"Wisconsin","55","Certain conditions originating in the perinatal period","P00-P96","2021","2021",156,59985,260.1,219.3,300.9
+,"Wisconsin","55","Certain conditions originating in the perinatal period","P00-P96","2022","2022",168,61278,274.2,232.7,315.6
+,"Wisconsin","55","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2021","2021",72,59985,120.0,93.9,151.2
+,"Wisconsin","55","Congenital malformations, deformations and chromosomal abnormalities","Q00-Q99","2022","2022",72,61278,117.5,91.9,148.0
+,"Wisconsin","55","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2021","2021",31,59985,51.7,35.1,73.4
+,"Wisconsin","55","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","R00-R99","2022","2022",33,61278,53.9,37.1,75.6
+,"Wisconsin","55","External causes of morbidity and mortality","V01-Y89","2021","2021",33,59985,55.0,37.9,77.3
+,"Wisconsin","55","External causes of morbidity and mortality","V01-Y89","2022","2022",33,61278,53.9,37.1,75.6
+,"Wyoming","56","Certain conditions originating in the perinatal period","P00-P96","2021","2021",23,6156,373.6,236.8,560.6
+,"Wyoming","56","Certain conditions originating in the perinatal period","P00-P96","2022","2022",22,6145,358.0,224.4,542.0
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"Title: cause_death_2023_2024"
+"Ten-Year Age Groups: < 1 year"
+"Year/Month: 2021; 2022"
+"Group By: State; UCD - ICD Chapter; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Nov 5, 2026 12:32:33 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Nov 5, 2026 12:32:33 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Not Stated."
+"3. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"4. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."

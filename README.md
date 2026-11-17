@@ -5,7 +5,7 @@ Infant Deaths After Texas’ 2021 Ban on Abortion in Early Pregnancy
 Gemmill et al. 2024 
 Published in JAMA Pediatrics
 
-[Link to the full text.]((https://pmc.ncbi.nlm.nih.gov/articles/PMC11197445/))
+[Link to the full text.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11197445/)
 
 Files:
 Scripts: 
